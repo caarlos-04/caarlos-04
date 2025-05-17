@@ -10,7 +10,7 @@
 
 📫 Puedes contactarme en: [cmazarico@gmail.com](cmazarico@gmail.com)
 
-<!--📫 También me encontraras en [LinkedIn](https://www.linkedin.com/in/caarlos-04/)-->
+📫 También me encontraras en [LinkedIn](https://es.linkedin.com/in/carlos-mazarico)
 
 ---
 
