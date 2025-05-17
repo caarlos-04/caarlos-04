@@ -1,3 +1,5 @@
+![Banner](https://github.com/caarlos-04/caarlos-04/assets/main/banner.png)
+
 # 👋 ¡Hola! Soy Carlos
 
 🎓 Estudiante de 3º de Ingeniería Informática en la Universitat de Lleida (UdL).
