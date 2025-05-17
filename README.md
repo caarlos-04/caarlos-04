@@ -1,4 +1,4 @@
-![Banner](https://github.com/caarlos-04/caarlos-04/assets/main/banner.png)
+![Banner](https://github.com/caarlos-04/caarlos-04/main/banner.png)
 
 # 👋 ¡Hola! Soy Carlos
 
