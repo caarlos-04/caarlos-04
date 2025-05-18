@@ -8,7 +8,7 @@
 
 🌱 Actualmente aprendiendo sobre desarrollo backend con Python y Django, y siempre con ganas de descubrir cosas nuevas.
 
-📫 Puedes contactarme en: [cmazarico@gmail.com](cmazarico@gmail.com)
+📫 Puedes contactarme en: [cmazarico@gmail.com](mailto:cmazarico@gmail.com)
 
 📫 También me encontraras en [LinkedIn](https://es.linkedin.com/in/carlos-mazarico)
 
