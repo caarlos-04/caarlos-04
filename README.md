@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/caarlos-04/caarlos-04/main/banner2.png)
 
-# 👋 Carlos Mazarico - Computer engineering student [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" alt="LinkedIn"/>]([https://www.linkedin.com/in/caarlos-04/](https://www.linkedin.com/in/carlos-mazarico/))
+# 👋 Carlos Mazarico - Computer engineering student | [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" alt="LinkedIn"/>]([https://www.linkedin.com/in/caarlos-04/](https://www.linkedin.com/in/carlos-mazarico/))
 
 🎓 Third-year Computer Engineering student at **Universitat de Lleida (UdL)**  
 
