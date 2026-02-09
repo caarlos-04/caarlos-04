@@ -4,9 +4,9 @@
 
 🎓 Fourth-year Computer Engineering student at **Universitat de Lleida (UdL)**  
 
-💻 Passionate about backend development and Artificial Intelligence  
+💻 Passionate about Artificial Intelligence  
 
-🌱 Currently learning Python & Django — always curious about new technologies  
+🌱 Currently learning Deep Learning
 
 📫 Reach me at: [cmazarico@gmail.com](mailto:cmazarico@gmail.com)  
 
@@ -21,15 +21,9 @@
 
 ---
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=caarlos-04&show_icons=true&theme=dracula" /> -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caarlos-04&layout=compact&theme=dracula" /> 
 </p>
-
-## 🧠 Currently Exploring
-
-- 🐍 Building REST APIs with Django
-- 🤖 Basics of Machine Learning and Deep Learning
-- ⚙️ Computer Networks and low-level programming in C
 
 
 
