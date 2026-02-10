@@ -6,7 +6,7 @@
 
 💻 Passionate about Artificial Intelligence  
 
-🌱 Currently learning Deep Learning
+🌱 Currently learning DL & RL
 
 📫 Reach me at: [cmazarico@gmail.com](mailto:cmazarico@gmail.com)  
 
